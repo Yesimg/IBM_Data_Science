@@ -1,3 +1,3 @@
-# IBM_Data_Science
+# Data_Science_Courses_Exer
 
-My Projects from IBM Data Science Course
+My Projects from IBM Data Science Course and Applied Data Science with Python (University of Michigan)
